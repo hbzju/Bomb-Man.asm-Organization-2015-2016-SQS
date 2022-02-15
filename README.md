@@ -1,7 +1,7 @@
 # Bomb-Man.asm-Organization-2015-2016-SQS
-##计组大程  
-**使用的语言：**  
+## Computer Organization  
+**Language**  
 `mips 18+ instructions`  
 `verilog`  
-**使用的FPGA面板:**  
+**FPGA**  
 `sword`  
